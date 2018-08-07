@@ -1,0 +1,15 @@
+30 Small Health Potion - Recovers 10 HP
+30 Small Mana Potion - Recovers 25 MP
+350 Medium Health Potion - Recovers 100 HP 
+350 Medium Mana Potion - Recovers 250 MP
+2000 Large Health Potion - Recovers 500 HP
+2000 Large Mana Potion - Recovers 1300 MP
+50 Basic Warrior Helmet - INT 2
+100 Basic Warrior Shirt - STR 2
+100 Basic Warrior Pants - HP 5
+50 Basic Warrior Shoes - MOVEMENT SPEED 20
+50 Basic Warrior Gloves - AGL 10
+30 Basic Warrior Belt - MP 1
+30 Basic Warrior Sleeves - MP 1
+200 Wooden Sword - AD 5
+150 Wooden Shield - ARM 2

@@ -1,0 +1,59 @@
+All skills max at 15
+One skill point awarded per level
+Additional skill points may be awarded by defeating bosses
+
+Attack Speed: 1 + (0.01 * AGL)
+Movement Speed: 400 + (AGL * 0.2)
+AD (Attack Damage): 5 + STR
+MD (Magic Damage): 5 + INT
+
+Warrior - Hits things
+	HP: 20 (LVL 1) - 1000 (LVL 50) 
+            Increments of 20
+	MP: 50 (LVL 1) - 500 (LVL 50) 
+            Increments of 9
+	STR (Strength): 5 (LVL 1) -  250 (LVL 50) 
+            Increments of 5
+	AGL (Agility): 2 (LVL 1) - 100 (LVL 50) 
+            Increments of 2
+        ARM (Armor): 0 (LVL 1) - 50 (LVL 50) 
+            Increments of 1
+        MRS (Magic resist): 0 (LVL 1) - 50 (LVL 50) 
+            Increments of 1
+        INT (Intelligence): 0 (LVL 1) - 50 (LVL 50)
+
+	Dash: Gotta go fast
+            Cost: 20MP (LVL 1) - 95MP (LVL 15)     
+                Increments of 5
+            50px (LVL 1) - 350 (LVL 15)
+                Increments of 20
+            Cooldown: 1sec
+        AOE Smash: Damage everything within a certain radius
+            Cost: 10MP (LVL 1) - 100MP (LVL 15)
+                Increments of 6
+            50px (LVL 1)
+            60px (LVL 5)
+            80px (LVL 10)
+            100px (LVL 15)
+            Damage = 10 + AD + (0.1 * MD)
+            Cooldown: 4sec
+        Power up: Increase damage for a certain amount of time
+            Cost: 20MP (LVL 1) - 110MP (LVL 15)
+                Increments of 6
+            STR + 2 (LVL 1) - STR + 32 (LVL 15)
+                Increments of 2
+            Cooldown: 1min
+        Pull: Pull enemies closer to you
+            Cost: 10MP (LVL 1) - 145MP (LVL 15
+                Increments of 9
+            50px (LVL 1) - 350 (LVL 15)
+                Increments of 20
+            Cooldown: 2sec
+        Stab: Stab
+            Cost: 10MP (LVL 1) - 100MP (LVL 15)
+                Increments of 6
+            STR + 5 (LVL 1) - STR + 50 (LVL 15)
+                Increments of 3
+            Cooldown: 2sec
+
+        
